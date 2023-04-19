@@ -2,6 +2,7 @@
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning AspNet
 - 📫 How to reach me ->Instagram: @enesssw7
+- ✨ New account
 
 <!---
 Eneswunbeaten/Eneswunbeaten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
