@@ -1,50 +1,45 @@
-```csharp
-using System;
-using System.Collections.Generic;
-using System.Linq;
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tagesschrift&size=25&pause=1000&color=99F77B&background=FFF58164&center=true&vCenter=true&width=500&height=100&lines=Welcome+To+My+Profile;I'm+Enes;From+Turkey+)](https://git.io/typing-svg)
 
-namespace GithubProfile
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var profile = new Dictionary<string, string>
-            {
-                ["Name"] = "Hasan Enes",
-                ["Location"] = "Turkey/Antalya",
-                ["Occupation"] = ".Net Developer",
-                ["Software_Languages"] = "C#, Python, Javascript, Typescript, ",
-                ["Areas_of_Interest"] = "Backend, Web Development, Cyber Sec."
-            };
+</div>
 
-            Console.WriteLine("Hello! I'm {0}, I'm a {1} in {2}",
-                profile["Name"], profile["Occupation"], profile["Location"]);
+##  Skills
 
-            Console.WriteLine("Programming languages I am proficient in: {0}.",
-                profile["Software_Languages"]);
+<div align="center">
 
-            Console.WriteLine("Areas of interest to me: {0}.",
-                profile["Areas_of_Interest"]);
+![Programming Languages](https://skillicons.dev/icons?i=cs,py,js,ts,cpp&theme=dark)
 
-            var best_projects = new Dictionary<string, string>
-            {
-                ["Menu Plus"] = @"You can switch the menus in the restaurant to qr system and place orders through this system.
-                                 It is not open source but you can access it from https://menuplus.com.tr.",
+![Frameworks & Tools](https://skillicons.dev/icons?i=dotnet,mongodb,mysql,visualstudio,vscode&theme=dark)
 
-                ["Csv Tool"] = @"You can upload the csv file and convert it to C# Model, Mongo Insert Command, Sql Insert Commands.
-                                 In addition, even if the column names are not available in the first line of the csv file,
-                                 you can continue your operations by manually entering them.",
+</div>
 
-                ["CarBook"] = @"It is a car rental project I made with mvc.
-                               You can update many detailed sections such as vehicle, brand via the admin panel."
-            };
+## Areas of Interest
 
-            Console.WriteLine("Some of my projects:");
-            best_projects.ForEach(proje => Console.WriteLine("- {0}", proje));
+<div align="center">
 
-            Console.WriteLine("Don't forget to check out the other repositories in my profile!");
-        }
-    }
-}
+![My Interests](https://skillicons.dev/icons?i=linux,bash,kali,docker,aws,cloudflare,redis&theme=dark)
+
+</div>
+
+## 📫 Contact
+Don't forget to check out the repositories in my profile
+
+<div align="center">
+  <a href="https://instagram.com/enesssw7" target="blank_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple"></a>
+  <a href="https://t.me/P1est" target="blank_"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=blue"></a>
+
+  <a href="#"><img alt="Visitors" src="https://img.shields.io/badge/Visitors-black?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+
+<p align="center"><img src="https://count.getloli.com/get/@:Eneswunbeaten?theme=rule34" alt=":Eneswunbeaten" /></p>
+<h1>💳 Donate</h1>
+  <details>
+    <summary><strong>Ethereum (ETH)</strong></summary>
+    
 ```
+0xB66868B4808Ef973Edd551E61CDC38Cb74473DF7
+```
+  </details>
+</div>
